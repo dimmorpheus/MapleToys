@@ -6,7 +6,7 @@ let productsData = [
     },
     "description": {
       "en":
-`Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
+          `Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
 
 Help your child improve numeracy, literacy, number recognition and language skills all with just one toy. Endless learning possibilities!
 
@@ -17,7 +17,7 @@ Tray: 270x127x20 mm
 Plate: 106x67x16 mm`
       ,
       "ru":
-`Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
+          `Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
 
 Ваш ребенок улучшит счет, грамотность, распознавание чисел и языковые навыки с помощью всего одной игрушки. Безграничные возможности обучения!
 
@@ -61,7 +61,7 @@ Plate: 106x67x16 mm`
     },
     "description": {
       "en":
-`Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
+          `Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
 
 Help your child improve numeracy, literacy, number recognition and language skills all with just one toy. Endless learning possibilities!
 
@@ -72,7 +72,7 @@ Tray: 152x148x24 mm
 Plate: 160-70x60x16 mm`
       ,
       "ru":
-`Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
+          `Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
 
 Ваш ребенок улучшит счет, грамотность, распознавание чисел и языковые навыки с помощью всего одной игрушки. Безграничные возможности обучения!
 
@@ -109,7 +109,7 @@ Plate: 160-70x60x16 mm`
     },
     "description": {
       "en":
-`Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
+          `Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
 
 Help your child improve numeracy, literacy, number recognition and language skills all with just one toy. Endless learning possibilities!
 
@@ -120,7 +120,7 @@ Tray: Ø120 mm, H = 16 mm
 Plate: Ø55 mm, H = 16 mm`
       ,
       "ru":
-`Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
+          `Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
 
 Ваш ребенок улучшит счет, грамотность, распознавание чисел и языковые навыки с помощью всего одной игрушки. Безграничные возможности обучения!
 
@@ -158,7 +158,7 @@ Plate: Ø55 mm, H = 16 mm`
     },
     "description": {
       "en":
-`This handmade wooden board is designed to help your child to count from 1-10 and to develop representation of numbers. This toy is also great educational toy for practicing eye-hand coordination and developing fine motor skills. This toy consists of 55 pieces of wooden pins (dowels) and wooden board.
+          `This handmade wooden board is designed to help your child to count from 1-10 and to develop representation of numbers. This toy is also great educational toy for practicing eye-hand coordination and developing fine motor skills. This toy consists of 55 pieces of wooden pins (dowels) and wooden board.
 
 Materials: birch, acrylic paint
 
@@ -167,7 +167,7 @@ Board: 210x154x16 mm
 Dowel: Ø8x30 mm`
       ,
       "ru":
-`Эта деревянная доска ручной работы предназначена для того, чтобы помочь вашему ребенку научиться считать от 1 до 10 и развить представление о числах. Эта игрушка также является отличной развивающей игрушкой для тренировки зрительно-моторной координации и развития мелкой моторики. Эта игрушка состоит из 55 деревянных шкантов и деревянной доски.
+          `Эта деревянная доска ручной работы предназначена для того, чтобы помочь вашему ребенку научиться считать от 1 до 10 и развить представление о числах. Эта игрушка также является отличной развивающей игрушкой для тренировки зрительно-моторной координации и развития мелкой моторики. Эта игрушка состоит из 55 деревянных шкантов и деревянной доски.
 
 Материалы: береза, акриловые краски
 
@@ -202,7 +202,7 @@ Dowel: Ø8x30 mm`
     },
     "description": {
       "en":
-`Our Numbers board is perfect for exploring the wonder of numbers! A variety of objects are kept neat and handy for conveying ideas, proving and learning facts, and cultivating a comfort with numbers as your child progresses naturally from work in the concrete to mental imagining and more abstract work.
+          `Our Numbers board is perfect for exploring the wonder of numbers! A variety of objects are kept neat and handy for conveying ideas, proving and learning facts, and cultivating a comfort with numbers as your child progresses naturally from work in the concrete to mental imagining and more abstract work.
 
 The Number board is as fun as it is educational for your preschooler and kindergartner. You can use our wooden numbers with the board or without. Whether for preschool math or as an educational toy for your kindergartner to use, this is sure to be a hit!
 
@@ -219,7 +219,7 @@ Plates: 55x55x12 mm
 (dowels are not included)`
       ,
       "ru":
-`Математическая доска идеально подходит для изучения чисел! Разнообразные предметы содержатся в аккуратном и удобном виде для передачи идей, доказательства и изучения фактов, а также для развития навыков работы с числами по мере того, как ваш ребенок естественным образом переходит от работы с конкретными задачами к воображению в уме и к более абстрактной работе.
+          `Математическая доска идеально подходит для изучения чисел! Разнообразные предметы содержатся в аккуратном и удобном виде для передачи идей, доказательства и изучения фактов, а также для развития навыков работы с числами по мере того, как ваш ребенок естественным образом переходит от работы с конкретными задачами к воображению в уме и к более абстрактной работе.
 
 Математическая доска - это так же весело, как и познавательно для вашего ребенка. Вы можете использовать наши деревянные цифры с доской или без нее. Будь то для дошкольной математики или в качестве развивающей игрушки для вашего ребенка, это обязательно будет хитом!
 
@@ -261,7 +261,7 @@ Plates: 55x55x12 mm
     },
     "description": {
       "en":
-`Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
+          `Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
 
 Help your child improve numeracy, literacy, number recognition and language skills all with just one toy. Endless learning possibilities!
 
@@ -273,7 +273,7 @@ Tray: 300x152x18 mm
 (dowels are not included)`
       ,
       "ru":
-`Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
+          `Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
 
 Помогите своему ребенку улучшить счет, грамотность, распознавание чисел и языковые навыки с помощью всего одной игрушки. Безграничные возможности обучения!
 
@@ -310,7 +310,7 @@ Tray: 300x152x18 mm
     },
     "description": {
       "en":
-`Inspired by Montessori teaching method this Number counting & tracing board helps kids in learning numbers one to ten and practice in counting & writing the numbers. 
+          `Inspired by Montessori teaching method this Number counting & tracing board helps kids in learning numbers one to ten and practice in counting & writing the numbers. 
 
 There is a line with engraved numbers 1 to 10 traceable with the included stylus. Above are the columns with matching amount of dimples. Kids enjoy touching these small pits and place therein whatever fitting items they got at hand. Importantly, each column to the right is one dimple higher than the previous. This helps one’s intuition to grasp the staircase principle of growing numbers.
 
@@ -320,7 +320,7 @@ Dimensions (LxWxH):
 Board: 488x330x18 mm`
       ,
       "ru":
-`Наша доска для подсчета и отслеживания чисел помогает детям изучать числа от одного до десяти и практиковаться в подсчете и написании чисел.
+          `Наша доска для подсчета и отслеживания чисел помогает детям изучать числа от одного до десяти и практиковаться в подсчете и написании чисел.
 Есть линия с выгравированными цифрами от 1 до 10. Выше приведены столбцы с соответствующим количеством ямочек. Детям нравится трогать эти маленькие ямки и класть туда все подходящие предметы, которые попадутся под руку. Важно отметить, что каждый столбец справа на одну ямочку выше предыдущего. Это помогает интуиции уловить принцип лестницы растущих чисел.
 
 Материалы: береза, льняное масло
@@ -354,7 +354,7 @@ Board: 488x330x18 mm`
     },
     "description": {
       "en":
-`Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
+          `Help your little one learn numbers, practice counting and understand the basics of math with this gorgeous wooden number tray. Practice counting objects, matching and tracing numbers, improve fine motor skills with a natural, eco-friendly educational toy.
 
 Help your child improve numeracy, literacy, number recognition and language skills all with just one toy. Endless learning possibilities! 
 
@@ -366,7 +366,7 @@ Dimensions:
 (marbles are not included)`
       ,
       "ru":
-`Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
+          `Помогите своему малышу выучить цифры, попрактиковаться в счете и понять основы математики с помощью этого великолепного деревянного трея для чисел. Тренируйтесь считать предметы, сопоставлять и обводить числа, улучшайте мелкую моторику с помощью натуральной и экологически чистой развивающей игрушки.
 
 Помогите своему ребенку улучшить счет, грамотность, распознавание чисел и языковые навыки с помощью всего одной игрушки. Безграничные возможности обучения!
 
@@ -411,7 +411,7 @@ Dimensions:
     },
     "description": {
       "en":
-`With the Rainbow board your little one can practice the two finger grip with our fantastic felt balls made of 100% wool (felt wool) and learn also amounts, counting and colors. By filling the grooves with felt balls or rice, pebbles, vegetable snacks, shells, etc. the number of possibilities are endless.
+          `With the Rainbow board your little one can practice the two finger grip with our fantastic felt balls made of 100% wool (felt wool) and learn also amounts, counting and colors. By filling the grooves with felt balls or rice, pebbles, vegetable snacks, shells, etc. the number of possibilities are endless.
 
 It is not so easy to learn colors and amounts - with the help of our rainbow board, your child will see the connection between the appearance of the number and colors with felt balls that are filled with it. But even after your child has learned numbers, he or she can still use the board for other activities like practice symmetry arts too.
 
@@ -423,7 +423,7 @@ Board: 300x150x18 mm
 (marbles are not included)`
       ,
       "ru":
-`С Радужной доской ваш малыш может попрактиковаться в захвате двумя пальцами наших фантастических войлочных мячей, сделанных из 100% шерсти (войлочной шерсти), а также выучить суммы, счет и цвета. Заполнив канавки войлочными шариками или рисом, ракушками и т. д. количество возможностей безгранично.
+          `С Радужной доской ваш малыш может попрактиковаться в захвате двумя пальцами наших фантастических войлочных мячей, сделанных из 100% шерсти (войлочной шерсти), а также выучить суммы, счет и цвета. Заполнив канавки войлочными шариками или рисом, ракушками и т. д. количество возможностей безгранично.
 
 Выучить цвета и количества не так просто - с помощью нашей радужной доски ваш ребенок увидит связь между цифрами и цветами с фетровыми шариками, которые ею наполнены. Но даже после того, как ваш ребенок выучил числа, он или она все еще может использовать доску для других занятий, например, для занятий искусством симметрии.
 
@@ -461,7 +461,7 @@ Board: 300x150x18 mm
     },
     "description": {
       "en":
-`It's a good game for the development of fine motor skills your baby. It also improves the development of thinking, memory and simple math counting skills. Sorter helps you children learn numbers faster. With the numbers, you can make up the simplest examples and solve them: add, subtract, multiply, divide, play "Over / Under".
+          `It's a good game for the development of fine motor skills your baby. It also improves the development of thinking, memory and simple math counting skills. Sorter helps you children learn numbers faster. With the numbers, you can make up the simplest examples and solve them: add, subtract, multiply, divide, play "Over / Under".
 
 The numbers are made on the principle of a sorter - the desired number should be put in the appropriate place.
       
@@ -472,7 +472,7 @@ Board: 265x180x16 mm
 Number: 75x40x16 mm`
       ,
       "ru":
-`Хорошая игра для развития мелкой моторики вашего малыша. Это также улучшает развитие мышления, памяти и простых математических навыков счета. Сортер помогает детям быстрее выучить числа. С числами можно составлять простейшие примеры и решать их: складывать, вычитать, уможать, делить, играть «Больше/Меньше».
+          `Хорошая игра для развития мелкой моторики вашего малыша. Это также улучшает развитие мышления, памяти и простых математических навыков счета. Сортер помогает детям быстрее выучить числа. С числами можно составлять простейшие примеры и решать их: складывать, вычитать, уможать, делить, играть «Больше/Меньше».
 
 Цифры сделаны по принципу сортера - нужное число нужно поставить в соответствующее место.
       
@@ -516,7 +516,7 @@ Number: 75x40x16 mm`
     },
     "description": {
       "en":
-`This life cycle tray helps to explore the wonderful rhythms of nature. It is easy to visualize cyclical life patterns of animals or plants. There are four cavities on one side of the board to put in any figure or picture of life stage and four arrows between them for easy navigation.
+          `This life cycle tray helps to explore the wonderful rhythms of nature. It is easy to visualize cyclical life patterns of animals or plants. There are four cavities on one side of the board to put in any figure or picture of life stage and four arrows between them for easy navigation.
       
 Materials: birch, linseed oil
 
@@ -524,7 +524,7 @@ Dimensions:
 Ø 280 mm, height 18 mm`
       ,
       "ru":
-`Трей жизненного цикла помогает исследовать прекрасные ритмы природы. Легко визуализировать циклические модели жизни животных или растений. На одной стороне доски есть четыре углубления, в которые можно поместить любую фигуру или изображение этапа жизни, и четыре стрелки между ними для удобной навигации.
+          `Трей жизненного цикла помогает исследовать прекрасные ритмы природы. Легко визуализировать циклические модели жизни животных или растений. На одной стороне доски есть четыре углубления, в которые можно поместить любую фигуру или изображение этапа жизни, и четыре стрелки между ними для удобной навигации.
       
 Материалы: береза, льняное масло
 
@@ -558,7 +558,7 @@ Dimensions:
     },
     "description": {
       "en":
-`Tracing board is the easiest way to teach kids writing alphabet, numbers or some pattern. Tracing boards it's a toy for kids and they don’t know they are learning through play with them. This Montessori toys is the best for birth- day gift or christmas gift.
+          `Tracing board is the easiest way to teach kids writing alphabet, numbers or some pattern. Tracing boards it's a toy for kids and they don’t know they are learning through play with them. This Montessori toys is the best for birth- day gift or christmas gift.
 When children are not playing, the board becomes a great natural decoration of a child’s room.
 
 Materials: birch, linseed oil
@@ -568,7 +568,7 @@ Numbers: 300x220x16 mm
 Alphabet, patterns: 270x190x16 mm`
       ,
       "ru":
-`Трассировка — это самый простой способ научить детей писать алфавит, цифры или какой-либо узор. Трассировка — это игрушка для детей, и они не знают, что учатся, играя с ними. Эти игрушки Монтессори - лучший подарок на день рождения или рождественский подарок.
+          `Трассировка — это самый простой способ научить детей писать алфавит, цифры или какой-либо узор. Трассировка — это игрушка для детей, и они не знают, что учатся, играя с ними. Эти игрушки Монтессори - лучший подарок на день рождения или рождественский подарок.
 Когда дети не играют, доска становится прекрасным естественным украшением детской комнаты.
 
 Материалы: береза, льняное масло
@@ -618,7 +618,7 @@ Alphabet, patterns: 270x190x16 mm`
     },
     "description": {
       "en":
-`The task, which seems very simple to adults, is an exciting challenge for the little ones.
+          `The task, which seems very simple to adults, is an exciting challenge for the little ones.
 
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To figure out exactly how to sort the figures, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child plane orientating.
@@ -631,7 +631,7 @@ Materials: birch, acrylic paint
 Dimensions (LxWxH):
 Board: 190x153x16 mm`,
       "ru":
-`Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
+          `Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
 
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы понять, как именно сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
@@ -678,7 +678,7 @@ Board: 190x153x16 mm`,
     },
     "description": {
       "en":
-`The task, which seems very simple to adults, is an exciting challenge for the little ones.
+          `The task, which seems very simple to adults, is an exciting challenge for the little ones.
 
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To figure out exactly how to sort the figures, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child plane orientating.
@@ -691,7 +691,7 @@ Materials: birch, acrylic paint
 Dimensions (LxWxH):
 Board: 190x153x16 mm`,
       "ru":
-`Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
+          `Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
 
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы понять, как именно сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
@@ -738,7 +738,7 @@ Board: 190x153x16 mm`,
     },
     "description": {
       "en":
-`The task, which seems very simple to adults, is an exciting challenge for the little ones.
+          `The task, which seems very simple to adults, is an exciting challenge for the little ones.
 
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To figure out exactly how to sort the figures, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child plane orientating.
@@ -751,7 +751,7 @@ Materials: birch, acrylic paint
 Dimensions (LxWxH):
 Board: 190x153x16 mm`,
       "ru":
-`Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
+          `Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
 
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы понять, как именно сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
@@ -798,7 +798,7 @@ Board: 190x153x16 mm`,
     },
     "description": {
       "en":
-`The task, which seems very simple to adults, is an exciting challenge for the little ones.
+          `The task, which seems very simple to adults, is an exciting challenge for the little ones.
 
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To figure out exactly how to sort the figures, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child plane orientating.
@@ -811,7 +811,7 @@ Materials: birch, acrylic paint
 Dimensions (LxWxH):
 Board: 190x153x16 mm`,
       "ru":
-`Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
+          `Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
 
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы понять, как именно сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
@@ -858,7 +858,7 @@ Board: 190x153x16 mm`,
     },
     "description": {
       "en":
-`The task, which seems very simple to adults, is an exciting challenge for the little ones.
+          `The task, which seems very simple to adults, is an exciting challenge for the little ones.
 
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To figure out exactly how to sort the figures, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child plane orientating.
@@ -871,7 +871,7 @@ Materials: birch, acrylic paint
 Dimensions (LxWxH):
 Board: 190x153x16 mm`,
       "ru":
-`Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
+          `Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
 
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы понять, как именно сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
@@ -918,7 +918,7 @@ Board: 190x153x16 mm`,
     },
     "description": {
       "en":
-`The task, which seems very simple to adults, is an exciting challenge for the little ones.
+          `The task, which seems very simple to adults, is an exciting challenge for the little ones.
 
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To figure out exactly how to sort the figures, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child plane orientating.
@@ -931,7 +931,7 @@ Materials: birch, acrylic paint
 Dimensions (LxWxH)
 Tray: 325x154x16 mm`,
       "ru":
-`Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
+          `Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
 
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы понять, как именно сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
@@ -999,7 +999,7 @@ Tray: 325x154x16 mm`,
     },
     "description": {
       "en":
-`The task, which seems very simple to adults, is an exciting challenge for the little ones.
+          `The task, which seems very simple to adults, is an exciting challenge for the little ones.
 
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To figure out exactly how to sort the figures, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child plane orientating.
@@ -1012,7 +1012,7 @@ Dimensions:
 Tray: Ø115 mm, height = 16 mm`
       ,
       "ru":
-`Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
+          `Задача, которая кажется очень простой для взрослых, является увлекательным испытанием для самых маленьких.
 
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы понять, как именно сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
@@ -1051,7 +1051,7 @@ Tray: Ø115 mm, height = 16 mm`
     },
     "description": {
       "en":
-`The shape puzzle is intended for children 12 months to help the child develop size discrimination and motor skills. By keeping the shape constant, the child is free to focus on the work of determining which size puzzle matches which hole.
+          `The shape puzzle is intended for children 12 months to help the child develop size discrimination and motor skills. By keeping the shape constant, the child is free to focus on the work of determining which size puzzle matches which hole.
 
 Materials: birch, linseed oil
 
@@ -1059,7 +1059,7 @@ Dimensions (LxWxH):
 Tray: 225x75x16 mm`
       ,
       "ru":
-`Головоломка с фигурами предназначена для детей от 12 месяцев, чтобы помочь ребенку развить различение размеров и моторные навыки. Сохраняя форму постоянной, ребенок может сосредоточиться на определении того, какой размер головоломки соответствует какому отверстию.
+          `Головоломка с фигурами предназначена для детей от 12 месяцев, чтобы помочь ребенку развить различение размеров и моторные навыки. Сохраняя форму постоянной, ребенок может сосредоточиться на определении того, какой размер головоломки соответствует какому отверстию.
 
 Материалы: береза, льняное масло
 
@@ -1107,7 +1107,7 @@ Tray: 225x75x16 mm`
     },
     "description": {
       "en":
-`What is this thing for? For beauty? Yes, it looks great, has a nice tactile feel and smells good of refreshing lemon oil. But it can do much more good for your little one.
+          `What is this thing for? For beauty? Yes, it looks great, has a nice tactile feel and smells good of refreshing lemon oil. But it can do much more good for your little one.
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To understand exactly how to sort the shapes, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child to plane orientating.
 - The little handles on the figures serve another purpose. The kid takes the figurine using three fingers: thumb, forefinger, middle. These fingers participate in the writing process, and thus there is an early indirect preparation of the hand for writing.
@@ -1117,7 +1117,7 @@ Dimensions (LxWxH):
 Tray: 75x75x16 mm`
       ,
       "ru":
-`Для чего эта штука? Для красоты? Да, она отлично выглядит, приятная на ощупь и приятно пахнет освежающим лимонным маслом. Но это может принести гораздо больше пользы вашему малышу.
+          `Для чего эта штука? Для красоты? Да, она отлично выглядит, приятная на ощупь и приятно пахнет освежающим лимонным маслом. Но это может принести гораздо больше пользы вашему малышу.
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы точно понять, как сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
 - Маленькие ручки на фигурках служат другой цели. Малыш берет фигурку тремя пальцами: большим, указательным, средним. Эти пальцы участвуют в процессе письма, и таким образом происходит ранняя непрямая подготовка руки к письму.
@@ -1167,7 +1167,7 @@ Tray: 75x75x16 mm`
     },
     "description": {
       "en":
-`This Rainbow stacker is really versatile and ideal already for small children! Toddlers stack, sort and build and as the children get older they will use it as a cradle for dolls, as fence for animals, like a tunnel or bridge for vehicles, as house for dwarfs and dollhouse dolls, build amazing sculptures... this rainbow will always be integrated in playing with a lot of fantasy. 
+          `This Rainbow stacker is really versatile and ideal already for small children! Toddlers stack, sort and build and as the children get older they will use it as a cradle for dolls, as fence for animals, like a tunnel or bridge for vehicles, as house for dwarfs and dollhouse dolls, build amazing sculptures... this rainbow will always be integrated in playing with a lot of fantasy. 
 
 Materials: birch, acrylic paint, linseed oil
 
@@ -1175,7 +1175,7 @@ Dimensions (LxWxH):
 212x106x40 mm`
       ,
       "ru":
-`Радуга действительно универсалена и идеально подходит уже для маленьких детей! Малыши складывают, сортируют и строят, а когда дети подрастут, они будут использовать его как колыбель для кукол, как забор для животных, как туннель или мост для транспортных средств, как дом для гномов и кукольных кукол, строят удивительные скульптуры... радуга всегда будет интегрирована в игру с большим количеством фантазии.
+          `Радуга действительно универсалена и идеально подходит уже для маленьких детей! Малыши складывают, сортируют и строят, а когда дети подрастут, они будут использовать его как колыбель для кукол, как забор для животных, как туннель или мост для транспортных средств, как дом для гномов и кукольных кукол, строят удивительные скульптуры... радуга всегда будет интегрирована в игру с большим количеством фантазии.
 
 Материалы: береза, акриловые краски, льняное масло
 
@@ -1237,7 +1237,7 @@ Dimensions (LxWxH):
     },
     "description": {
       "en":
-`This Rainbow stacker is really versatile and ideal already for small children! Toddlers stack, sort and build and as the children get older they will use it as a cradle for dolls, as fence for animals, like a tunnel or bridge for vehicles, as house for dwarfs and dollhouse dolls, build amazing sculptures... this rainbow will always be integrated in playing with a lot of fantasy. 
+          `This Rainbow stacker is really versatile and ideal already for small children! Toddlers stack, sort and build and as the children get older they will use it as a cradle for dolls, as fence for animals, like a tunnel or bridge for vehicles, as house for dwarfs and dollhouse dolls, build amazing sculptures... this rainbow will always be integrated in playing with a lot of fantasy. 
 
 Materials: birch, acrylic paint, linseed oil
 
@@ -1245,7 +1245,7 @@ Dimensions (LxWxH):
 212x106x20 mm`
       ,
       "ru":
-`Радуга действительно универсалена и идеально подходит уже для маленьких детей! Малыши складывают, сортируют и строят, а когда дети подрастут, они будут использовать его как колыбель для кукол, как забор для животных, как туннель или мост для транспортных средств, как дом для гномов и кукольных кукол, строят удивительные скульптуры... радуга всегда будет интегрирована в игру с большим количеством фантазии.
+          `Радуга действительно универсалена и идеально подходит уже для маленьких детей! Малыши складывают, сортируют и строят, а когда дети подрастут, они будут использовать его как колыбель для кукол, как забор для животных, как туннель или мост для транспортных средств, как дом для гномов и кукольных кукол, строят удивительные скульптуры... радуга всегда будет интегрирована в игру с большим количеством фантазии.
 
 Материалы: береза, акриловые краски, льняное масло
 
@@ -1307,7 +1307,7 @@ Dimensions (LxWxH):
     },
     "description": {
       "en":
-`This seemingly simple toy will be the first reference for your little one. Every time your kids play with it, they will learn something new. Taking it in their hands, they find out what shape the objects are, and then find out what color and size they are. The toy will develop fine motor skills, coordination of movements, memory and logical thinking.
+          `This seemingly simple toy will be the first reference for your little one. Every time your kids play with it, they will learn something new. Taking it in their hands, they find out what shape the objects are, and then find out what color and size they are. The toy will develop fine motor skills, coordination of movements, memory and logical thinking.
           
 Materials: birch, linseed oil
 
@@ -1316,7 +1316,7 @@ Max: Ø120 mm, H = 16 mm
 Min: Ø55 mm, H = 16 mm`
       ,
       "ru":
-`Эта, казалось бы, простая игрушка станет первым ориентиром для вашего малыша. Каждый раз, когда ваши дети играют с ним, они узнают что-то новое. Взяв его в руки, они узнают, какой формы предметы, а затем узнают, какого они цвета и размера. Игрушка разовьет мелкую моторику, координацию движений, память и логическое мышление.
+          `Эта, казалось бы, простая игрушка станет первым ориентиром для вашего малыша. Каждый раз, когда ваши дети играют с ним, они узнают что-то новое. Взяв его в руки, они узнают, какой формы предметы, а затем узнают, какого они цвета и размера. Игрушка разовьет мелкую моторику, координацию движений, память и логическое мышление.
           
 Материалы: береза, льняное масло
 
@@ -1372,7 +1372,7 @@ Min: Ø55 mm, H = 16 mm`
     },
     "description": {
       "en":
-`What is this thing for? For beauty? Yes, it looks great, has a nice tactile feel and smells good of refreshing lemon oil. But it can do much more good for your little one.
+          `What is this thing for? For beauty? Yes, it looks great, has a nice tactile feel and smells good of refreshing lemon oil. But it can do much more good for your little one.
 - Feeling, examining the components of the sorter, babies learn what shape is, develop hand-eye coordination and improve finger sensitivity.
 - To understand exactly how to sort the shapes, they need to understand the relationship between the shape of the small part and the shape of the hole. This teaches the child to plane orientating.
 
@@ -1381,7 +1381,7 @@ Dimensions (LxWxH):
 Assembled: 85x85x100 mm`
       ,
       "ru":
-`Для чего эта штука? Для красоты? Да, он отлично выглядит, приятный на ощупь и приятно пахнет освежающим лимонным маслом. Но это может принести гораздо больше пользы вашему малышу.
+          `Для чего эта штука? Для красоты? Да, он отлично выглядит, приятный на ощупь и приятно пахнет освежающим лимонным маслом. Но это может принести гораздо больше пользы вашему малышу.
 - Ощупывая, рассматривая составляющие сортера, малыши узнают, что такое форма, развивают зрительно-моторную координацию и улучшают чувствительность пальцев.
 - Чтобы точно понять, как сортировать фигуры, им нужно понять взаимосвязь между формой маленькой детали и формой отверстия. Это учит ребенка ориентироваться в плоскости.
 
@@ -1444,7 +1444,7 @@ Assembled: 85x85x100 mm`
     },
     "description": {
       "en":
-`The baby begins to examine objects and shift them from hand to hand. Shifting objects from hand to hand is essential for the development of the right and left hemispheres of the brain.
+          `The baby begins to examine objects and shift them from hand to hand. Shifting objects from hand to hand is essential for the development of the right and left hemispheres of the brain.
 Passing objects between two hands is the first step that babies have been striving for for months and will require coordination of both hand movements.
 Coordinated hand-to-hand transmission is the basis for subsequent actions such as dressing, eating with cutlery, holding pencils, and crawling. Montessori Connected Discs are a Montessori classic: they help children practice manipulating objects in one hand and ultimately transferring objects to the other hand.
 Wooden Connected Discs stimulate the development of wrist and hand movement, which in turn encourages the baby to crawl.
@@ -1454,7 +1454,7 @@ Dimensions:
 Ø 70 mm, thickness = 12 mm`
       ,
       "ru":
-`Малыш начинает рассматривать предметы и перекладывать их из рук в руки. Перекладывание предметов из рук в руки необходимо для развития правого и левого полушарий мозга.
+          `Малыш начинает рассматривать предметы и перекладывать их из рук в руки. Перекладывание предметов из рук в руки необходимо для развития правого и левого полушарий мозга.
 Передача предметов между двумя руками — это первый шаг, к которому младенцы стремятся в течение нескольких месяцев и который потребует координации движений обеих рук.
 Координированная передача из рук в руки является основой для последующих действий, таких как одевание, прием пищи столовыми приборами, удерживание карандашей и ползание. Подключенные диски Монтессори — это классика Монтессори: они помогают детям практиковаться в манипулировании предметами в одной руке и, в конечном счете, в переносе предметов в другую руку.
 Деревянные соединительные диски стимулируют развитие движений запястий и кистей, что, в свою очередь, побуждает ребенка ползать.
@@ -1483,7 +1483,7 @@ Dimensions:
     },
     "description": {
       "en":
-`Everyone has used teethers or teethers for babies. Teething of the first teeth in babies is often difficult: the baby cries, is capricious, rubs inflamed gums. After four months, the child drags everything into his mouth. Tries to gnaw on any objects that come under the arm. In such conditions, it is very difficult to maintain sterility and prevent inflammation in the oral cavity.
+          `Everyone has used teethers or teethers for babies. Teething of the first teeth in babies is often difficult: the baby cries, is capricious, rubs inflamed gums. After four months, the child drags everything into his mouth. Tries to gnaw on any objects that come under the arm. In such conditions, it is very difficult to maintain sterility and prevent inflammation in the oral cavity.
 
 Teethers alleviate the condition, reduce itching, soreness of the gums, an effective device will help - a teether for teeth or, popularly, teethers for babies. Bright, original, comfortable toys in the form of a ring, flower, animals will relieve the baby from suffering, distract from unpleasant sensations.
 
@@ -1500,7 +1500,7 @@ Dimensions (LxWxH):
 Average: 90x90x12 mm`
       ,
       "ru":
-`Все пользовались прорезывателями для зубов или прорезывателями для младенцев. Прорезывание первых зубов у малышей часто протекает тяжело: малыш плачет, капризничает, трет воспаленные десны. После четырех месяцев ребенок все тащит в рот. Пытается грызть любые предметы, попадающие под руку. В таких условиях очень сложно сохранить стерильность и не допустить воспаления в ротовой полости.
+          `Все пользовались прорезывателями для зубов или прорезывателями для младенцев. Прорезывание первых зубов у малышей часто протекает тяжело: малыш плачет, капризничает, трет воспаленные десны. После четырех месяцев ребенок все тащит в рот. Пытается грызть любые предметы, попадающие под руку. В таких условиях очень сложно сохранить стерильность и не допустить воспаления в ротовой полости.
 
 Прорезыватели облегчают состояние, уменьшают зуд, болезненность десен, поможет эффективное приспособление – прорезыватель для зубов или, в народе, прорезыватели для младенцев. Яркие, оригинальные, удобные игрушки в виде кольца, цветка, животных избавят малыша от страданий, отвлекут от неприятных ощущений.
 
@@ -1606,7 +1606,7 @@ Average: 90x90x12 mm`
     },
     "description": {
       "en":
-`This wooden lacing toy is great for entertaining and education of toddlers.
+          `This wooden lacing toy is great for entertaining and education of toddlers.
 It helps to study geometry shapes, train general motor skills as well as practice the sewing motion.
 The needle is attached to the natural cotton thread, which has a knot at the end.
 It consists of 8 differently shaped buttons and a stylus with a thread.
@@ -1618,7 +1618,7 @@ Dimensions (LxWxH):
 Average: 50x50x12 mm`
       ,
       "ru":
-`Эта деревянная игрушка на шнуровке отлично подходит для развлечения и обучения малышей.
+          `Эта деревянная игрушка на шнуровке отлично подходит для развлечения и обучения малышей.
 Это помогает изучать геометрические фигуры, тренировать общую моторику, а также тренировать движения шитья.
 Игла крепится к натуральной хлопковой нити, которая имеет узел на конце.
 Он состоит из 8 фигур разной формы и стилуса с резьбой.
@@ -1648,7 +1648,7 @@ Average: 50x50x12 mm`
     },
     "description": {
       "en":
-`The Cube cylinder is a classic rolling toy designed to entice a baby just beginning to crawl to go after it. The colorful cubes and the soft jingling sound when it rolls combine to create the perfect toy for babies who are ready to try crawling and scooting.
+          `The Cube cylinder is a classic rolling toy designed to entice a baby just beginning to crawl to go after it. The colorful cubes and the soft jingling sound when it rolls combine to create the perfect toy for babies who are ready to try crawling and scooting.
           
 Materials: birch, linseed oil, acrylic pain
 
@@ -1656,7 +1656,7 @@ Dimensions (LxWxH):
 Assembled: 50x50x90 mm`
       ,
       "ru":
-`Цилиндр — это классическая игрушка-каталка, предназначенная для того, чтобы побудить ребенка, только начинающего ползать, следовать за ним. Разноцветные кубики и мягкий позвякивающий звук, когда он катится, создают идеальную игрушку для малышей, которые готовы попробовать ползать и кататься на самокате.
+          `Цилиндр — это классическая игрушка-каталка, предназначенная для того, чтобы побудить ребенка, только начинающего ползать, следовать за ним. Разноцветные кубики и мягкий позвякивающий звук, когда он катится, создают идеальную игрушку для малышей, которые готовы попробовать ползать и кататься на самокате.
           
 Материалы: береза, льняное масло, акриловые краски
 
@@ -1683,7 +1683,7 @@ Assembled: 50x50x90 mm`
     },
     "description": {
       "en":
-`This baby gym toy sets will bring the smile to your babies every morning, and teach them the shapes of many animals. 
+          `This baby gym toy sets will bring the smile to your babies every morning, and teach them the shapes of many animals. 
 His motor skill will be developed by touching the crocheted animals. 
 This is a simple but versatile gift for any new mum.
 Baby gyms are ideal for encouraging cognitive development in your little one, as well as providing them with a whole host of fun and colourful stimulus to play and interact.
@@ -1694,7 +1694,7 @@ Dimensions (LxWxH):
 Assembled: 634x550x520 mm`
       ,
       "ru":
-`Эти детские наборы игрушек для гимнастики будут дарить улыбку вашим малышам каждое утро и научат их фигурам многих животных.
+          `Эти детские наборы игрушек для гимнастики будут дарить улыбку вашим малышам каждое утро и научат их фигурам многих животных.
 Его моторика будет развиваться, прикасаясь к вязаным крючком животным.
 Это простой, но универсальный подарок для любой молодой мамы.
 Детские тренажерные залы идеально подходят для поощрения когнитивного развития вашего малыша, а также предоставляют ему целый ряд веселых и красочных стимулов для игр и взаимодействия.
@@ -1724,7 +1724,7 @@ Assembled: 634x550x520 mm`
     },
     "description": {
       "en":
-`Fifteen - a puzzle consisting of 15 square plates with numbers from 1 to 15. There is one empty space in the tray the size of one plate, which can be used to move the dice inside the tray. The goal of the game is to arrange the placement of the numbers in the tray by placing them in ascending order from left to right and top to bottom, starting with the number 1 in the upper left corner and ending with an empty space in the lower right corner of the tray.
+          `Fifteen - a puzzle consisting of 15 square plates with numbers from 1 to 15. There is one empty space in the tray the size of one plate, which can be used to move the dice inside the tray. The goal of the game is to arrange the placement of the numbers in the tray by placing them in ascending order from left to right and top to bottom, starting with the number 1 in the upper left corner and ending with an empty space in the lower right corner of the tray.
 
 Materials: birch, plywood, acrylic paint
         
@@ -1733,7 +1733,7 @@ Tray: 240x240x8 mm
 Insert: 55x55x12 mm`
       ,
       "ru":
-`Пятнадцать - головоломка, состоящая из 15 квадратных тарелок с числами от 1 до 15. В трее есть одно пустое место размером с одну цифру, которое можно использовать для перемещения цифр внутри лотка. Цель игры состоит в том, чтобы упорядочить размещение цифр в лотке, расположив их в порядке возрастания слева направо и сверху вниз, начиная с цифры 1 в верхнем левом углу и заканчивая пустым местом в нижнем правый угол лотка.
+          `Пятнадцать - головоломка, состоящая из 15 квадратных тарелок с числами от 1 до 15. В трее есть одно пустое место размером с одну цифру, которое можно использовать для перемещения цифр внутри лотка. Цель игры состоит в том, чтобы упорядочить размещение цифр в лотке, расположив их в порядке возрастания слева направо и сверху вниз, начиная с цифры 1 в верхнем левом углу и заканчивая пустым местом в нижнем правый угол лотка.
 Materials: birch, plywood, acrylic paint
         
 Размеры (ДхШхВ):
@@ -1767,7 +1767,7 @@ Materials: birch, plywood, acrylic paint
     },
     "description": {
       "en":
-`The Wooden Puzzles are classic and popular Puzzle Game toys, can train and develop your logic & improve your IQ, suitable for both young and old.
+          `The Wooden Puzzles are classic and popular Puzzle Game toys, can train and develop your logic & improve your IQ, suitable for both young and old.
 Playing with wooden Puzzles can not only exercise brain, develop intelligence, improve problem-solving ability, but also relieve pressure, relax mood and gain pleasure, you and family will have quite a lot of fun through this interlocking brain toy.
 
 Materials: birch, acrylic paint
@@ -1776,7 +1776,7 @@ Dimensions (LxWxH):
 Assembled: 195x195x16 mm`
       ,
       "ru":
-`Деревянные пазлы - это классические и популярные игрушки-головоломки, которые могут тренировать и развивать вашу логику и повышать IQ вашего малыша.
+          `Деревянные пазлы - это классические и популярные игрушки-головоломки, которые могут тренировать и развивать вашу логику и повышать IQ вашего малыша.
 Игра с деревянными пазлами может не только тренировать мозг, развивать интеллект, улучшать способность решать проблемы, но и снимать напряжение, расслаблять настроение и получать удовольствие. Вы и ваша семья получите массу удовольствия от этой взаимосвязанной игрушки для мозга.
 Материалы: береза, акриловые краски
 
@@ -1817,7 +1817,7 @@ Assembled: 195x195x16 mm`
     },
     "description": {
       "en":
-`Even younger children will be fascinated by the intense colours and beautifully formed elements. As the children get older, they will create more and more detailed palaces. 
+          `Even younger children will be fascinated by the intense colours and beautifully formed elements. As the children get older, they will create more and more detailed palaces. 
 Create more mystery and wonder with this building set when combined with glass stones, silk scarves, dolls and other elements. 
 By building and playing with these blocks, children develop fine motor skills and spatial thinking skills. 
 
@@ -1828,7 +1828,7 @@ Dimensions (LxWxH):
 Assembled: 315x250x22 mm`
       ,
       "ru":
-`Даже дети младшего возраста будут очарованы насыщенными цветами и красиво оформленными элементами. По мере взросления дети будут создавать все более и более детализированные дворцы.
+          `Даже дети младшего возраста будут очарованы насыщенными цветами и красиво оформленными элементами. По мере взросления дети будут создавать все более и более детализированные дворцы.
 Создайте больше тайн и чудес с помощью этого строительного набора в сочетании со стеклянными камнями, шелковыми шарфами, куклами и другими элементами.
 Собирая и играя с этими кубиками, дети развивают мелкую моторику и навыки пространственного мышления.
 
@@ -1872,7 +1872,7 @@ Assembled: 315x250x22 mm`
     },
     "description": {
       "en":
-`Name Puzzle - best personalized gift you can ever imagine.
+          `Name Puzzle - best personalized gift you can ever imagine.
 You, your kids and your family will have a great time enjoy playing and solving the puzzle.
 Name Puzzle is the best gift for your friends, relatives or lovers. Also good for collection and shelf display.
 It will entertain Your kid and definitely it will become one of the favorite toys.
@@ -1883,7 +1883,7 @@ Dimensions (LxWxH):
 Average letter size: 70x50x16 mm`
       ,
       "ru":
-`Именной пазл - лучший персонализированный подарок, который вы только можете себе представить.
+          `Именной пазл - лучший персонализированный подарок, который вы только можете себе представить.
 Вы, ваши дети и ваша семья отлично проведете время, играя и решая головоломки.
 Головоломка с именами - лучший подарок для ваших друзей, близких или любимых. Также подходит для коллекции и демонстрации на полках.
 Она развлечет Вашего малыша и точно станет одной из любимых игрушек.
@@ -1961,7 +1961,7 @@ Average letter size: 70x50x16 mm`
     },
     "description": {
       "en":
-`Name Puzzle - best personalized gift you can ever imagine.
+          `Name Puzzle - best personalized gift you can ever imagine.
 You, your kids and your family will have a great time enjoy playing and solving the puzzle.
 Name Puzzle is the best gift for your friends, relatives or lovers. Also good for collection and shelf display.
 It will entertain Your kid and definitely it will become one of the favorite toys.
@@ -1972,7 +1972,7 @@ Dimensions (LxWxH):
 Average letter size: 55x55x12 mm`
       ,
       "ru":
-`Именной пазл - лучший персонализированный подарок, который вы только можете себе представить.
+          `Именной пазл - лучший персонализированный подарок, который вы только можете себе представить.
 Вы, ваши дети и ваша семья отлично проведете время, играя и решая головоломки.
 Головоломка с именами - лучший подарок для ваших друзей, близких или любимых. Также подходит для коллекции и демонстрации на полках.
 Она развлечет Вашего малыша и точно станет одной из любимых игрушек.
@@ -2051,7 +2051,7 @@ Average letter size: 55x55x12 mm`
     },
     "description": {
       "en":
-`Name Puzzle - best personalized gift you can ever imagine.
+          `Name Puzzle - best personalized gift you can ever imagine.
 You, your kids and your family will have a great time enjoy playing and solving the puzzle.
 Name Puzzle is the best gift for your friends, relatives or lovers. Also good for collection and shelf display.
 It will entertain Your kid and definitely it will become one of the favorite toys.
@@ -2062,7 +2062,7 @@ Dimensions (LxWxH)
 Average letter size: 80x60x16 mm`
       ,
       "ru":
-`Именной пазл - лучший персонализированный подарок, который вы только можете себе представить.
+          `Именной пазл - лучший персонализированный подарок, который вы только можете себе представить.
 Вы, ваши дети и ваша семья отлично проведете время, играя и решая головоломки.
 Головоломка с именами - лучший подарок для ваших друзей, близких или любимых. Также подходит для коллекции и демонстрации на полках.
 Она развлечет Вашего малыша и точно станет одной из любимых игрушек.
@@ -2170,12 +2170,12 @@ Materials: birch, linseed oil
     },
     "description": {
       "en":
-`
+          `
 Materials: birch
 `
       ,
       "ru":
-`
+          `
 Материалы: береза
 `
     },
@@ -2332,7 +2332,7 @@ Materials: birch, linseed oil
           "en": "Default",
           "ru": "Стандартная"
         },
-         "price": 9.33
+        "price": 9.33
       }
     ]
   },
